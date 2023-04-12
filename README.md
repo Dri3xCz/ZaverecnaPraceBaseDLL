@@ -98,3 +98,8 @@
 - Implementovat InitForm() tak, aby zoobrazoval form, který chcete jako první. V případě, že máte pouze jeden form, stačí return this;
 - Uložit si IMainForm z InitFormu do proměnné
 - Zakončit vaší aplikaci v metodě EndGame() a zde jako poslední řáděk kódu zavolat metodu (IMainForm).SendData('#')  # - Vámi zvolený charakter
+
+# Need help?
+- Jsme skoro 24/7 na discordu
+- Oslov mě ve škole
+- Absolutně nebudu dělat celou práci za vás, to nepřichází v úvahu, ovšem vím, že někteří lidé nemají programovaní rádi tak jako já. Klidně s vámi celý source kód projedu individuálně a vysvětlím nejlépe jak dokážu.
